@@ -1,0 +1,34 @@
+- [ ] Ecouter de la musique
+	- [ ] Titre / Artiste / Albums / Artiste présent dans l'album / Compositeur / Année
+	- [ ] BPM
+	- [ ] Commentaire
+	- [ ] Photo d'album
+	- [ ] N° de piste sur Total
+	- [ ] Lecture aléatoire
+	- [ ] Pause / Play
+	- [ ] Lire en boucle
+	- [ ] Morceau  précédent  / suivant
+	- [ ] Remettre le morceau au début
+	- [ ] Augmenter  / Diminuer le volume
+	- [ ] Lyrics des morceaux
+	- [ ] Like / Dislike
+	- [ ] Morceau en attente / Historique d'écoute
+- [ ] Acheter (liste / tableau) 
+- [ ] Recherche 
+	- [ ] Artiste
+	- [ ] Genre
+	- [ ] Morceaux
+	- [ ] Albums
+- [ ] Création de compte utilisateur  / connexion (BD utilisateur : adresse mail / mot de passe)
+	- [ ] Liste de musique achetées
+	- [ ] Suppression de compte (admin)
+	- [ ] Administrateur ? 
+- [ ] Télécharger / Création de playlist (liste / tableau ?)
+	- [ ] Créer une playlist
+	- [ ] Supprimer une playlist
+	- [ ] Créer une playlist intelligente (qui range automatiquement les morceaux selon un critère)
+	- [ ] Bibliothèque : Ajout récent / Artiste / Morceau / Albums (achetés)
+- [ ] Bio des contenus / artistes (BD Musique : Artiste / Albums / Titre / Nombre de titres dans l'album / Compositeur / Année...)
+	- [ ] Photos
+	- [ ] Description
+- [ ] Radio
